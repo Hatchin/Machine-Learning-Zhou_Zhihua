@@ -4,4 +4,4 @@ This repository contains my personal notes and codes for the book of [_Machine L
 
 ## Supervised learning
 
-1. Logistic Regresssion
+1. [Logistic Regresssion] from stratch (https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.3/code/3.3.ipynb)
