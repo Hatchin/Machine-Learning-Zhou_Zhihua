@@ -6,6 +6,6 @@ This repository contains my personal notes and codes for the book of [_Machine L
 
 1. [Logistic Regresssion from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.3/code/3.3.ipynb)  
 
-
-## [Chapter 3. Linear Model](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3)
+## Example Codes for Book Exercise
+### [Chapter 3. Linear Model](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3)
 - Problem 3.3 - [**Implementation of Logistic Regression**](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.3/code/3.3.ipynb)
