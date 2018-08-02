@@ -10,4 +10,4 @@ This repository contains my personal notes and codes for the book of [_Machine L
 ## Example Codes in Jupyter Notebook for Book Exercise
 ### [Chapter 3. Linear Model](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3)
 - [Problem 3.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.3/code/3.3.ipynb) - Implementation of **Logistic Regression** 
-- [Problem 3.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.5/code/3.5.ipynb) - Implementation of **Linear Discrimination Analysis**(LDA)
+- [Problem 3.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.5/code/3.5.ipynb) - Implementation of **Linear Discrimination Analysis** (LDA)
