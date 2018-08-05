@@ -3,11 +3,11 @@
 This repository contains my personal notes and codes for Problem 4.3 in Chapter 4. A decision tree was built on ID3 algorithm. 
 The major steps involved in the implementation are as follows:
 
-- Entropy Calculation
-- Information Calculation
-- Best Attribute Selection
-- Subdata splitted
-- Decision Tree Building
+1. Entropy Calculation
+2. Information Calculation
+3. Best Attribute Selection
+4. Subdata splitted
+5. Decision Tree Building
 
 The detailed algorithm explaination and example code could be found:
 - [ID3 Algorithm in Steps](https://machinelearningforbeginners.wordpress.com/2017/11/23/id3-algorithm-implementation-in-python/)
