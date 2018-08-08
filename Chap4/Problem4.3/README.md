@@ -9,6 +9,8 @@ The major steps involved in the implementation are as follows:
 4. Subdata splitted
 5. Decision Tree Building
 
-The detailed algorithm explaination and example code could be found:
+The basic algorithm explaination and example code could be found:
 - [ID3 Algorithm in Steps](https://machinelearningforbeginners.wordpress.com/2017/11/23/id3-algorithm-implementation-in-python/)
 - [Decision Tree in Python](https://www.python-course.eu/Decision_Trees.php)
+
+Based on the example code, the feature of dealing with numeric value is added to the new model.
