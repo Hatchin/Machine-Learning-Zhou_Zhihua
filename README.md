@@ -6,7 +6,9 @@ This repository contains my personal notes and codes for the book of [_Machine L
 ### Classification
 1. [Logistic Regresssion from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.3/code/3.3.ipynb)  
 2. [Linear Discrimination Analysis (LDA) from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.5/code/3.5.ipynb) 
-3. [Iterative Dichotomiser 3 (ID3) Decision Tree from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.3/code/4.3.ipynb)
+3. [Decision Tree from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/)
+  3.1 [Iterative Dichotomiser 3 (ID3) Decision Tree from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.3/code/4.3.ipynb)
+
 
 ## Example Codes in Jupyter Notebook for Book Exercise
 ### [Chapter 3. Linear Model](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3)
