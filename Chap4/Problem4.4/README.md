@@ -8,7 +8,7 @@ The major steps involved in the implementation are as follows:
 3. Best Attribute Selection
 4. Subdata splitted
 5. Decision Tree Building with Pre-pruning
-6. Post-pruning for a fully grown tree
+6. Post-pruning for a Fully Grown Tree
 
 The basic algorithm explaination and example code could be found:
 - [CART Algorithm and Pruning in Steps](https://blog.csdn.net/HerosOfEarth/article/details/52425952) (in Chinese)
