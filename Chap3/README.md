@@ -1,7 +1,7 @@
-# Chapter 4 Implementation of Decision Tree
+# Chapter 4 Implementation of Linear Model
 
-This repository contains my personal notes and codes for problems in Chapter 4. Several decision trees were built on different algorithms and pruning option is added.
+This repository contains my personal notes and codes for problems in Chapter 3. Several linear classification models were built on different algorithms and details are as follows:
 
-- [ID3 Decision Tree](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/Problem4.3)
-- [CART Decision Tree with Pruning Option](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/Problem4.4)
+- Problem 3.3: [Logistic Regression](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap3/Problem3.3)
+- Problem 3.5: [Linear Discrimination Analysis (LDA)](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap3/Problem3.5)
 
