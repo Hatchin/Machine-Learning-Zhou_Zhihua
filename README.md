@@ -10,6 +10,20 @@ This repository contains my personal notes and codes for the book of [_Machine L
   - 3.1 [Iterative Dichotomiser 3 (ID3) Decision Tree from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.3/code/4.3.ipynb)
 
 
+\begin{itemize}
+\item First level, itemize, first item
+\begin{itemize}
+\item Second level, itemize, first item
+\item Second level, itemize, second item
+\begin{enumerate}
+\item Third level, enumerate, first item
+\item Third level, enumerate, second item
+\end{enumerate}
+\end{itemize}
+\item First level, itemize, second item
+\end{itemize}
+
+
 ## Example Codes in Jupyter Notebook for Book Exercise
 ### [Chapter 3. Linear Model](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3)
 - [Problem 3.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.3/code/3.3.ipynb) - Implementation of **Logistic Regression** 
