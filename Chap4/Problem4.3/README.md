@@ -1,10 +1,11 @@
-# Chapter 4 Problem 4.3 Implementation of ID3 Algorithm
+# Chapter 4 Problem 4.3 
+## Implementation of ID3 Algorithm
 
 This repository contains my personal notes and codes for Problem 4.3 in Chapter 4. A decision tree was built on ID3 algorithm. 
 The major steps involved in the implementation are as follows:
 
 1. Entropy Calculation
-2. Information Calculation
+2. Information Gain Calculation
 3. Best Attribute Selection
 4. Subdata splitted
 5. Decision Tree Building
