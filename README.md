@@ -9,6 +9,7 @@ This repository contains my personal notes and codes for the book of [_Machine L
 3. [Decision Tree from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/)
    - [Iterative Dichotomiser 3 (ID3) Decision Tree from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.3/code/4.3.ipynb)
    - [CART Decision Tree with Pre- and Post- Pruning from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/Problem4.4/code)
+   - [Decision Tree Implementation with Non-Recursive Approach](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.7/code/4.7.ipynb)
 
 
 
@@ -20,3 +21,4 @@ This repository contains my personal notes and codes for the book of [_Machine L
 ### [Chapter 4. Decision Tree](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/)
 - [Problem 4.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.3/) - Implementation of **Iterative Dichotomiser 3 (ID3)** Decision Tree
 - [Problem 4.4](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/Problem4.4/) - Implementation of **CART** Decision Tree with Pruning
+- [Problem 4.7](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.7/) - Decision Tree Implementation with Non-Recursive Approach
