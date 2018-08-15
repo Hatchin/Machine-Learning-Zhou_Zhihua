@@ -4,7 +4,7 @@ This repository contains my personal notes and codes for Problem 4.3 in Chapter 
 The major steps involved in the implementation are as follows:
 
 1. Entropy Calculation
-2. Information Calculation
+2. Information Gain Calculation
 3. Best Attribute Selection
 4. Subdata splitted
 5. Decision Tree Building
