@@ -1,4 +1,5 @@
-# Chapter 4 Problem 4.7 Implementation of Decision Tree with Non-Recursive Approach
+# Chapter 4 Problem 4.7 
+## Implementation of Decision Tree with Non-Recursive Approach
 
 This repository contains my personal notes and codes for Problem 4.7 in Chapter 4. A decision tree was built in non-recursive manner.
 The major steps involved in the implementation are similar to those in [Problem 4.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/Problem4.3), including Entropy and Information Gain Calculation, Best Attribute Selection and Subdata splitted. 
