@@ -1,4 +1,5 @@
-# Chapter 4 Problem 4.4 Implementation of CART Algorithm with Pruning
+# Chapter 4 Problem 4.4 
+## Implementation of CART Algorithm with Pruning
 
 This repository contains my personal notes and codes for Problem 4.4 in Chapter 4. A decision tree was built on CART algorithm and pruning option is added.
 The major steps involved in the implementation are as follows:
