@@ -6,4 +6,6 @@ This repository contains my personal notes and codes for problem 6.2 in Chapter 
 2. Dual Problem
 3. Sequential Minimal Optimization
 
+Reference:
+- [MLfrom Stratch - SVM](https://github.com/HadXu/ML-From-Scratch/blob/master/SVM%20SMO.ipynb)
 
