@@ -6,8 +6,8 @@ This repository contains my personal notes and codes for Problem 5.5 in Chapter 
 0. Dummies variables
 1. Initialize Network
 2. Forward Propagation - Compute the output of a network
-   - Neuron Activation.
-   - Neuron Transfer.
-   - Forward Propagation.
+  - Neuron Activation.
+  - Neuron Transfer.
+  - Forward Propagation.
 
 
