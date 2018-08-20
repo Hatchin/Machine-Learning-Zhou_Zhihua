@@ -29,5 +29,5 @@ This repository contains my personal notes and codes for the book of [_Machine L
 ### [Chapter 5. Neural Networks](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap5)
 - [Problem 5.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap5/Problem5.5/) - Implementation of Standard and Accumulated **Back-Propagation**
 
-### [Chapter 6 Support Vector Machine](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap6)
+### [Chapter 6. Support Vector Machine](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap6)
 - [Problem 6.2](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap6/Problem6.2/) - Implementation of **Support Vector Machine** using Kernels
