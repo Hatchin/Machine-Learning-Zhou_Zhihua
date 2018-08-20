@@ -1,7 +1,9 @@
-# Chapter 5 Implementation of Neural Networks
+# Chapter 6 Problem 6.2 Implementation of SVM SMO
 
-This repository contains my personal notes and codes for problems in Chapter 5. Several neural networks were built.
+This repository contains my personal notes and codes for problem 6.2 in Chapter 6. Support Vector Machine uisng SMO was implemented and the main steps were as follows:
 
-- Problem 5.5: [Back-Propagation](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap5/Problem5.5)
+1. Kernel transformation
+2. Dual Problem
+3. Sequential Minimal Optimization
 
 
