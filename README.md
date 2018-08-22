@@ -4,16 +4,17 @@ This repository contains my personal notes and codes for the book of [_Machine L
 
 ## Supervised learning
 ### Classification
-1. [Logistic Regresssion from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.3/) 
-2. [Linear Discrimination Analysis (LDA) from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.5/) 
-3. [Decision Tree from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/)
+1. [Linear Model from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3)
+   - [Logistic Regresssion from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.3/) 
+   - [Linear Discrimination Analysis (LDA) from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.5/) 
+2. [Decision Tree from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/)
    - [Iterative Dichotomiser 3 (ID3) Decision Tree](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.3/)
    - [CART Decision Tree with Pre- and Post- Pruning](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/Problem4.4/)
    - [Decision Tree Implementation with Non-Recursive Approach](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.7/)
-4. [Neural Networks from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap5)
+3. [Neural Networks from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap5)
    - [Standard and Accumulated Back-Propagation](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap5/Problem5.5/)
-5. [Support Vector Machine from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap6/Problem6.2/)
-6. [Bayes Classifier from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap7)
+4. [Support Vector Machine from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap6/Problem6.2/)
+5. [Bayes Classifier from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap7)
    - [Naïve Bayes Classifier using Laplacian Correction](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap7/Problem7.3/)
 
 
