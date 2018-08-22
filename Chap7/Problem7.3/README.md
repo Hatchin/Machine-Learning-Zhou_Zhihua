@@ -1,7 +1,9 @@
-# Chapter 6 Implementation of Support Vector Machine
+# Chapter 7 Problem 7.3 Implementation of Naïve Bayes Classifier using Laplacian Correction
 
-This repository contains my personal notes and codes for problems in Chapter 6. Several several Support Vector Machine were built.
+This repository contains my personal notes and codes for problem 7.3 in Chapter 7. A Naïve Bayes Classifier using Laplacian Correction is implemented. The main steps are as follows:
 
-- Problem 6.2: [Support Vector Machine with Linear and Guassian Kernels](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap6/Problem6.2)
-
+1. Prior probabiltiy compution using Laplacian Correction
+2. Conditional probability compution using Laplacian Correction
+3. Computing cumulative product of probability for each class
+4. Return the class with the largest Probability
 
