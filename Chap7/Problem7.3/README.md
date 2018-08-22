@@ -1,4 +1,5 @@
-# Chapter 7 Problem 7.3 Implementation of Naïve Bayes Classifier using Laplacian Correction
+# Chapter 7 Problem 7.3 
+## Implementation of Naïve Bayes Classifier using Laplacian Correction
 
 This repository contains my personal notes and codes for problem 7.3 in Chapter 7. A Naïve Bayes Classifier using Laplacian Correction is implemented. The main steps are as follows:
 
