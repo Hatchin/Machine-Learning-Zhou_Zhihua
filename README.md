@@ -17,7 +17,7 @@ This repository contains my personal notes and codes for the book of [_Machine L
 4. [Support Vector Machine from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap6/Problem6.2/)
 5. [Bayes Classifier from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap7)
    - [Naïve Bayes Classifier using Laplacian Correction](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap7/Problem7.3/)
-   - [Semi-Naïve Bayes Classifier - Averaged One-Dependent Estimator](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap7/Problem7.6/)
+   - [Averaged One-Dependent Estimator (AODE) of Semi-Naïve Bayes Classifier](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap7/Problem7.6/)
 
 
 ## Example Codes in Jupyter Notebook for Book Exercise
