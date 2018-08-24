@@ -8,7 +8,7 @@ This repository contains my personal notes and codes for problem 7.6 in Chapter 
 3. Computing the sum of cumulative product of probability for each class
 4. Return the class with the largest Probability
 
-### Probability Function
+## Probability Function
 In particular, the prior and conditional probability of two categorical variables, <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> are given by the following functions:
 
 - The prior probability of a class <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{P}&space;(c,x_{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{P}&space;(c,x_{i})" title="\hat{P} (c,x_{i})" /></a> can be estimated as
