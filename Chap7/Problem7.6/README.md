@@ -41,6 +41,10 @@ Secondly, based on conditional probability formula, we have equation 4:
   <a href="https://www.codecogs.com/eqnedit.php?latex=P(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{P(x_{i},&space;x_{j}&space;|&space;c)}{P(x_{i}&space;|&space;c)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{P(x_{i},&space;x_{j}&space;|&space;c)}{P(x_{i}&space;|&space;c)}" title="P(x_{j} | c, x_{i}) = \frac{P(x_{i}, x_{j} | c)}{P(x_{i} | c)}" /></a>
 </p>
 
+Then when both <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> are continous variables, we could use equation 4 to solve the conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{P}&space;(x_{j}|c,&space;x_{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{P}&space;(x_{j}|c,&space;x_{i})" title="\hat{P} (x_{j}|c, x_{i})" /></a>. 
+
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/288f20c89fee827ad086cec03369439ba3615d7f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.171ex; width:8.257ex; height:3.343ex;" alt="{\displaystyle {\boldsymbol {\mu }}=\left[{\begin{smallmatrix}0\\0\end{smallmatrix}}\right]}"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\boldsymbol {\Sigma }}=\left[{\begin{smallmatrix}1&amp;3/5\\3/5&amp;2\end{smallmatrix}}\right]}">
+
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> Categorical Variable and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> Continuous Variable
 
 
