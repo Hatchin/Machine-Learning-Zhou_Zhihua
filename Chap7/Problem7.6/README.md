@@ -35,11 +35,13 @@ Firstly, when <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target=
 
 with <a href="https://www.codecogs.com/eqnedit.php?latex=\mu" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma" title="\sigma" /></a> of <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> calculated on the sub-data which is classified as class, c.
 
+
 Secondly, based on conditional probability formula, we have equation 4:
 
 <p align="center">
   <a href="https://www.codecogs.com/eqnedit.php?latex=P(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{P(x_{i},&space;x_{j}&space;|&space;c)}{P(x_{i}&space;|&space;c)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{P(x_{i},&space;x_{j}&space;|&space;c)}{P(x_{i}&space;|&space;c)}" title="P(x_{j} | c, x_{i}) = \frac{P(x_{i}, x_{j} | c)}{P(x_{i} | c)}" /></a>
 </p>
+
 
 Then when both <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> are continous variables, we could use equation 4 to solve the conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{P}&space;(x_{j}|c,&space;x_{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{P}&space;(x_{j}|c,&space;x_{i})" title="\hat{P} (x_{j}|c, x_{i})" /></a>.
 
@@ -59,7 +61,8 @@ Then when both <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target
 
 </p>
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> Categorical Variable and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> Continuous Variable
+
+When <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> is categorical, and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> is continuous, similar to 
 
 
 
