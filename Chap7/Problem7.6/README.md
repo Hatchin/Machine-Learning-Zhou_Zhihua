@@ -43,7 +43,7 @@ with <a href="https://www.codecogs.com/eqnedit.php?latex=\mu" target="_blank"><i
 </p>
 
   
-  Then when both <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> are continous variables, we could use equation 4 to solve the conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{P}&space;(x_{j}|c,&space;x_{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{P}&space;(x_{j}|c,&space;x_{i})" title="\hat{P} (x_{j}|c, x_{i})" /></a>.
+  2.1 Then when both <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> are continous variables, we could use equation 4 to solve the conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{P}&space;(x_{j}|c,&space;x_{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{P}&space;(x_{j}|c,&space;x_{i})" title="\hat{P} (x_{j}|c, x_{i})" /></a>.
 
 <p align="center">
   <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{P}(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{\hat{P}(x_{i},&space;x_{j}&space;|&space;c)}{\hat{P}(x_{i}&space;|&space;c)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{P}(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{\hat{P}(x_{i},&space;x_{j}&space;|&space;c)}{\hat{P}(x_{i}&space;|&space;c)}" title="\hat{P}(x_{j} | c, x_{i}) = \frac{\hat{P}(x_{i}, x_{j} | c)}{\hat{P}(x_{i} | c)}" /></a>
@@ -62,7 +62,14 @@ with <a href="https://www.codecogs.com/eqnedit.php?latex=\mu" target="_blank"><i
 </p>
 
 
-When <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> is categorical, and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> is continuous, similar to 
+  2.2 When <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> is categorical, and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> is continuous, similar to equation 3, we could have:
+  <p align="center">
+  <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{P}(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{1}{{\sigma&space;\sqrt&space;{2\pi&space;}&space;}}e^{{{&space;-&space;\left(&space;{x_{j}&space;-&space;\mu&space;}&space;\right)^2&space;}&space;\mathord{\left/&space;{\vphantom&space;{{&space;-&space;\left(&space;{x&space;-&space;\mu&space;}&space;\right)^2&space;}&space;{2\sigma&space;^2&space;}}}&space;\right.&space;\kern-\nulldelimiterspace}&space;{2\sigma&space;^2&space;}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{P}(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{1}{{\sigma&space;\sqrt&space;{2\pi&space;}&space;}}e^{{{&space;-&space;\left(&space;{x_{j}&space;-&space;\mu&space;}&space;\right)^2&space;}&space;\mathord{\left/&space;{\vphantom&space;{{&space;-&space;\left(&space;{x&space;-&space;\mu&space;}&space;\right)^2&space;}&space;{2\sigma&space;^2&space;}}}&space;\right.&space;\kern-\nulldelimiterspace}&space;{2\sigma&space;^2&space;}}}" title="\hat{P}(x_{j} | c, x_{i}) = \frac{1}{{\sigma \sqrt {2\pi } }}e^{{{ - \left( {x_{j} - \mu } \right)^2 } \mathord{\left/ {\vphantom {{ - \left( {x - \mu } \right)^2 } {2\sigma ^2 }}} \right. \kern-\nulldelimiterspace} {2\sigma ^2 }}}" /></a>
+  
+  </p>
+  
+  with <a href="https://www.codecogs.com/eqnedit.php?latex=\mu" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mu" title="\mu" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sigma" title="\sigma" /></a> of <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> calculated on the sub-data which is classified as class, c and the value of i-th variable equal to <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a>
+  
 
 
 
