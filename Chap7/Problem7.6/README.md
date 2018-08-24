@@ -41,14 +41,17 @@ Secondly, based on conditional probability formula, we have equation 4:
   <a href="https://www.codecogs.com/eqnedit.php?latex=P(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{P(x_{i},&space;x_{j}&space;|&space;c)}{P(x_{i}&space;|&space;c)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{P(x_{i},&space;x_{j}&space;|&space;c)}{P(x_{i}&space;|&space;c)}" title="P(x_{j} | c, x_{i}) = \frac{P(x_{i}, x_{j} | c)}{P(x_{i} | c)}" /></a>
 </p>
 
-Then when both <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> are continous variables, we could use equation 4 to solve the conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{P}&space;(x_{j}|c,&space;x_{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{P}&space;(x_{j}|c,&space;x_{i})" title="\hat{P} (x_{j}|c, x_{i})" /></a>. 
+Then when both <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> are continous variables, we could use equation 4 to solve the conditional probability <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{P}&space;(x_{j}|c,&space;x_{i})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{P}&space;(x_{j}|c,&space;x_{i})" title="\hat{P} (x_{j}|c, x_{i})" /></a>.
 
-:<math>
-\begin{align}
-f_{\mathbf X}(x_1,\ldots,x_k)
-& = \frac{\exp\left(-\frac 1 2 ({\mathbf x}-{\boldsymbol\mu})^\mathrm{T}{\boldsymbol\Sigma}^{-1}({\mathbf x}-{\boldsymbol\mu})\right)}{\sqrt{(2\pi)^k|\boldsymbol\Sigma|}}
-\end{align}
-</math>
+<p align="center">
+  <a href="https://www.codecogs.com/eqnedit.php?latex=P(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{P(x_{i},&space;x_{j}&space;|&space;c)}{P(x_{i}&space;|&space;c)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(x_{j}&space;|&space;c,&space;x_{i})&space;=&space;\frac{P(x_{i},&space;x_{j}&space;|&space;c)}{P(x_{i}&space;|&space;c)}" title="P(x_{j} | c, x_{i}) = \frac{P(x_{i}, x_{j} | c)}{P(x_{i} | c)}" /></a>
+  
+<a href="https://www.codecogs.com/eqnedit.php?latex=P(X&space;=&space;(x_{i},&space;x_{j})&space;|&space;c)=&space;\frac{\exp\left(-\frac&space;1&space;2&space;({\mathbf&space;x}-{\boldsymbol\mu})^\mathrm{T}{\boldsymbol\Sigma}^{-1}({\mathbf&space;x}-{\boldsymbol\mu})\right)}{\sqrt{(2\pi)^k|\boldsymbol\Sigma|}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?P(X&space;=&space;(x_{i},&space;x_{j})&space;|&space;c)=&space;\frac{\exp\left(-\frac&space;1&space;2&space;({\mathbf&space;x}-{\boldsymbol\mu})^\mathrm{T}{\boldsymbol\Sigma}^{-1}({\mathbf&space;x}-{\boldsymbol\mu})\right)}{\sqrt{(2\pi)^k|\boldsymbol\Sigma|}}" title="P(X = (x_{i}, x_{j}) | c)= \frac{\exp\left(-\frac 1 2 ({\mathbf x}-{\boldsymbol\mu})^\mathrm{T}{\boldsymbol\Sigma}^{-1}({\mathbf x}-{\boldsymbol\mu})\right)}{\sqrt{(2\pi)^k|\boldsymbol\Sigma|}}" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{P}&space;(x_{i}|c)&space;=&space;\frac{1}{{\sigma&space;\sqrt&space;{2\pi&space;}&space;}}e^{{{&space;-&space;\left(&space;{x_{i}&space;-&space;\mu&space;}&space;\right)^2&space;}&space;\mathord{\left/&space;{\vphantom&space;{{&space;-&space;\left(&space;{x&space;-&space;\mu&space;}&space;\right)^2&space;}&space;{2\sigma&space;^2&space;}}}&space;\right.&space;\kern-\nulldelimiterspace}&space;{2\sigma&space;^2&space;}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{P}&space;(x_{i}|c)&space;=&space;\frac{1}{{\sigma&space;\sqrt&space;{2\pi&space;}&space;}}e^{{{&space;-&space;\left(&space;{x_{i}&space;-&space;\mu&space;}&space;\right)^2&space;}&space;\mathord{\left/&space;{\vphantom&space;{{&space;-&space;\left(&space;{x&space;-&space;\mu&space;}&space;\right)^2&space;}&space;{2\sigma&space;^2&space;}}}&space;\right.&space;\kern-\nulldelimiterspace}&space;{2\sigma&space;^2&space;}}}" title="\hat{P} (x_{i}|c) = \frac{1}{{\sigma \sqrt {2\pi } }}e^{{{ - \left( {x_{i} - \mu } \right)^2 } \mathord{\left/ {\vphantom {{ - \left( {x - \mu } \right)^2 } {2\sigma ^2 }}} \right. \kern-\nulldelimiterspace} {2\sigma ^2 }}}" /></a>
+
+</p>
+
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{i}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{i}" title="x_{i}" /></a> Categorical Variable and <a href="https://www.codecogs.com/eqnedit.php?latex=x_{j}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{j}" title="x_{j}" /></a> Continuous Variable
 
