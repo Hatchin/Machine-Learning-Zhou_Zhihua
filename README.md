@@ -17,25 +17,25 @@ This repository contains my personal notes and codes for the book of [_Machine L
 4. [Support Vector Machine from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/SVM/)
 5. [Bayes Classifier from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes)
    - [Naïve Bayes Classifier using Laplacian Correction](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/Nai%CC%88veBayes)
-   - [Averaged One-Dependent Estimator (AODE) of Semi-Naïve Bayes Classifier](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap7/Problem7.6/)
+   - [Averaged One-Dependent Estimator (AODE) of Semi-Naïve Bayes Classifier](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/AODE)
 
 
 ## Example Codes in Jupyter Notebook for Book Exercise
-### [Chapter 3. Linear Model](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3)
-- [Problem 3.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.3/code/3.3.ipynb) - Implementation of **Logistic Regression** 
-- [Problem 3.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.5/code/3.5.ipynb) - Implementation of **Linear Discrimination Analysis (LDA)**
+### [Chapter 3. Linear Model](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear)
+- [Problem 3.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LogisticRegression/code/3.3.ipynb) - Implementation of **Logistic Regression** 
+- [Problem 3.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LDA/code/3.5.ipynb) - Implementation of **Linear Discrimination Analysis (LDA)**
 
-### [Chapter 4. Decision Tree](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/)
-- [Problem 4.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.3/code/4.3.ipynb) - Implementation of **Iterative Dichotomiser 3 (ID3)** Decision Tree
-- [Problem 4.4](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/Problem4.4/code/4.4.ipynb) - Implementation of **CART** Decision Tree with Pruning
-- [Problem 4.7](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.7/code/4.7.ipynb) - Decision Tree Implementation with Non-Recursive Approach
+### [Chapter 4. Decision Tree](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DecisionTree/)
+- [Problem 4.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DecisionTree/ID3/code/4.3.ipynb) - Implementation of **Iterative Dichotomiser 3 (ID3)** Decision Tree
+- [Problem 4.4](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DecisionTree/CART/code/4.4.ipynb) - Implementation of **CART** Decision Tree with Pruning
+- [Problem 4.7](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DecisionTree/Non-Recursive-Tree/code/4.7.ipynb) - Decision Tree Implementation with Non-Recursive Approach
 
-### [Chapter 5. Neural Networks](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap5)
-- [Problem 5.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap5/Problem5.5/code/5.5.ipynb) - Implementation of Standard and Accumulated **Back-Propagation**
+### [Chapter 5. Neural Networks](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/NeuralNetworks)
+- [Problem 5.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/NeuralNetworks/BackPropagation/code/5.5.ipynb) - Implementation of Standard and Accumulated **Back-Propagation**
 
-### [Chapter 6. Support Vector Machine](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap6)
-- [Problem 6.2](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap6/Problem6.2/code/6.2.ipynb) - Implementation of **Support Vector Machine** using Kernels
+### [Chapter 6. Support Vector Machine](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/SVM/)
+- [Problem 6.2](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/SVM/SVM/code/6.2.ipynb) - Implementation of **Support Vector Machine** using Kernels
 
-### [Chapter 7. Bayes Classifier](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap7)
-- [Problem 7.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap7/Problem7.3/code/7.3.ipynb) - Implementation of **Naïve Bayes Classifier** using Laplacian Correction
-- [Problem 7.6](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap7/Problem7.6/code/7.6.ipynb) - Implementation of **Averaged One-Dependent Estimator (AODE)** of Semi-Naïve Bayes Classifier 
+### [Chapter 7. Bayes Classifier](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes)
+- [Problem 7.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/Nai%CC%88veBayes/code/7.3.ipynb) - Implementation of **Naïve Bayes Classifier** using Laplacian Correction
+- [Problem 7.6](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/AODE/code/7.6.ipynb) - Implementation of **Averaged One-Dependent Estimator (AODE)** of Semi-Naïve Bayes Classifier 
