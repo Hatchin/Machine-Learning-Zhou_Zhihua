@@ -5,9 +5,9 @@ This repository contains my personal notes and codes for the book of [_Machine L
 
 ## Supervised learning
 ### Classification
-1. [Linear Model from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3)
-   - [Logistic Regresssion from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.3/) 
-   - [Linear Discrimination Analysis (LDA) from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap3/Problem3.5/) 
+1. [Linear Model from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear)
+   - [Logistic Regresssion from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LogisticRegression) 
+   - [Linear Discrimination Analysis (LDA) from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LDA) 
 2. [Decision Tree from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/)
    - [Iterative Dichotomiser 3 (ID3) Decision Tree](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Chap4/Problem4.3/)
    - [CART Decision Tree with Pre- and Post- Pruning](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Chap4/Problem4.4/)
