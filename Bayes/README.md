@@ -1,4 +1,4 @@
-# Chapter 6 Implementation of Support Vector Machine
+# Chapter 7 Implementation of Bayes Classifiers
 
 This repository contains my personal notes and codes for problems in Chapter 7. Several Bayes Classifiers were built.
 
