@@ -18,6 +18,9 @@ This repository contains my personal notes and codes for the book of [_Machine L
 5. [Bayes Classifier from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes)
    - [Naïve Bayes Classifier using Laplacian Correction](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/Nai%CC%88veBayes)
    - [Averaged One-Dependent Estimator (AODE) of Semi-Naïve Bayes Classifier](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/AODE)
+6. [Ensemble Learning from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning)
+   - [AdaBoost](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/AdaBoost)
+   - [Bagging of Decision Stamps](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/Bagging)
 
 
 ## Example Codes in Jupyter Notebook for Book Exercise
@@ -39,3 +42,7 @@ This repository contains my personal notes and codes for the book of [_Machine L
 ### [Chapter 7. Bayes Classifier](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes)
 - [Problem 7.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/Nai%CC%88veBayes/code/7.3.ipynb) - Implementation of **Naïve Bayes Classifier** using Laplacian Correction
 - [Problem 7.6](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/AODE/code/7.6.ipynb) - Implementation of **Averaged One-Dependent Estimator (AODE)** of Semi-Naïve Bayes Classifier 
+
+### [Chapter 8. Ensemble Learning](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning)
+- [Problem 8.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/AdaBoost/code/8.3.ipynb)- Implementation of **AdaBoost** 
+- [Problem 8.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/Bagging/code/8.5.ipynb) - Implementation of **Bagging** for Decision Stamps
