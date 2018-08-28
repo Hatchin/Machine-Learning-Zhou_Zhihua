@@ -1,0 +1,10 @@
+Id,color,sound,density,quality
+1,dark-green,crisp,0.697,good
+2,dark-green,dull,0.697,good
+3,dark-green,dull,0.3,bad
+4,dark-green,dead,0.4,bad
+5,white,crisp,0.4,bad
+6,pitch-dark,dull,0.5,good
+7,pitch-dark,dull,0.4,good
+8,pitch-dark,dull,0.4,bad
+9,pitch-dark,dull,0.4,bad
