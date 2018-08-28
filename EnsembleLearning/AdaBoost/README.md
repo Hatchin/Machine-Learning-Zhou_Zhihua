@@ -1,10 +1,9 @@
-# Chapter 7 Problem 7.3 
-## Implementation of Naïve Bayes Classifier using Laplacian Correction
+# Chapter 8 Problem 8.3 
+## Implementation of AdaBoost classifier
 
-This repository contains my personal notes and codes for problem 7.3 in Chapter 7. A Naïve Bayes Classifier using Laplacian Correction is implemented. The main steps are as follows:
+This repository contains my personal notes and codes for problem 8.3 in Chapter 8. A Ensemble Classifier using AdaBoost algorithm for a two-class classification problem is implemented.
 
-1. Prior probabiltiy compution using Laplacian Correction
-2. Conditional probability compution using Laplacian Correction
-3. Computing cumulative product of probability for each class
-4. Return the class with the largest Probability
+The algorithm sequentially applies a weak classification to modified versions of the data. By increasing the weights of the missclassified observations, each weak learner focuses on the error of the previous one. The predictions are aggregated through a weighted majority vote. 
+
+
 
