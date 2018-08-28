@@ -25,24 +25,24 @@ This repository contains my personal notes and codes for the book of [_Machine L
 
 ## Example Codes in Jupyter Notebook for Book Exercise
 ### [Chapter 3. Linear Model](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear)
-- [Problem 3.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LogisticRegression/code/3.3.ipynb) - Implementation of **Logistic Regression** 
-- [Problem 3.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LDA/code/3.5.ipynb) - Implementation of **Linear Discrimination Analysis (LDA)**
+- [Problem 3.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LogisticRegression/3.3.ipynb) - Implementation of **Logistic Regression** 
+- [Problem 3.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LDA/3.5.ipynb) - Implementation of **Linear Discrimination Analysis (LDA)**
 
 ### [Chapter 4. Decision Tree](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DecisionTree/)
-- [Problem 4.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DecisionTree/ID3/code/4.3.ipynb) - Implementation of **Iterative Dichotomiser 3 (ID3)** Decision Tree
-- [Problem 4.4](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DecisionTree/CART/code/4.4.ipynb) - Implementation of **CART** Decision Tree with Pruning
-- [Problem 4.7](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DecisionTree/Non-Recursive-Tree/code/4.7.ipynb) - Decision Tree Implementation with Non-Recursive Approach
+- [Problem 4.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DecisionTree/ID3/4.3.ipynb) - Implementation of **Iterative Dichotomiser 3 (ID3)** Decision Tree
+- [Problem 4.4](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DecisionTree/CART/4.4.ipynb) - Implementation of **CART** Decision Tree with Pruning
+- [Problem 4.7](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DecisionTree/Non-Recursive-Tree/4.7.ipynb) - Decision Tree Implementation with Non-Recursive Approach
 
 ### [Chapter 5. Neural Networks](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/NeuralNetworks)
-- [Problem 5.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/NeuralNetworks/BackPropagation/code/5.5.ipynb) - Implementation of Standard and Accumulated **Back-Propagation**
+- [Problem 5.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/NeuralNetworks/BackPropagation/5.5.ipynb) - Implementation of Standard and Accumulated **Back-Propagation**
 
 ### [Chapter 6. Support Vector Machine](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/SVM/)
-- [Problem 6.2](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/SVM/SVM/code/6.2.ipynb) - Implementation of **Support Vector Machine** using Kernels
+- [Problem 6.2](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/SVM/SVM/6.2.ipynb) - Implementation of **Support Vector Machine** using Kernels
 
 ### [Chapter 7. Bayes Classifier](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes)
-- [Problem 7.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/Nai%CC%88veBayes/code/7.3.ipynb) - Implementation of **Naïve Bayes Classifier** using Laplacian Correction
-- [Problem 7.6](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/AODE/code/7.6.ipynb) - Implementation of **Averaged One-Dependent Estimator (AODE)** of Semi-Naïve Bayes Classifier 
+- [Problem 7.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/Nai%CC%88veBayes/7.3.ipynb) - Implementation of **Naïve Bayes Classifier** using Laplacian Correction
+- [Problem 7.6](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/AODE/7.6.ipynb) - Implementation of **Averaged One-Dependent Estimator (AODE)** of Semi-Naïve Bayes Classifier 
 
 ### [Chapter 8. Ensemble Learning](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning)
-- [Problem 8.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/AdaBoost/code/8.3.ipynb)- Implementation of **AdaBoost** 
-- [Problem 8.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/Bagging/code/8.5.ipynb) - Implementation of **Bagging** for Decision Stamps
+- [Problem 8.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/AdaBoost/8.3.ipynb)- Implementation of **AdaBoost** 
+- [Problem 8.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/Bagging/8.5.ipynb) - Implementation of **Bagging** for Decision Stamps
