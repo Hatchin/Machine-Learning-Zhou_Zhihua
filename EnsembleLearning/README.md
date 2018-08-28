@@ -1,8 +1,8 @@
-# Chapter 6 Implementation of Support Vector Machine
+# Chapter 8 Implementation of Ensemble Learning
 
-This repository contains my personal notes and codes for problems in Chapter 7. Several Bayes Classifiers were built.
+This repository contains my personal notes and codes for problems in Chapter 8. Several Ensemble Classifiers were built.
 
-- Problem 7.3: [Naïve Bayes Classifier using Laplacian Correction](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/Nai%CC%88veBayes)
-- Problem 7.6: [Semi-Naïve Bayes Classifier - Averaged One-Denpendent Estimator (AODE)](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Bayes/AODE)
+- Problem 8.3: [AdaBoost](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/AdaBoost)
+- Problem 8.5: [Bagging for Decision Stamps](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/Bagging)
 
 
