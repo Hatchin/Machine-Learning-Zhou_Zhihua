@@ -4,7 +4,6 @@
 This repository contains my personal notes and codes for the book of [_Machine Learning_](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm "Book information") written by [Prof. Zhou Zhihua](http://cs.nju.edu.cn/zhouzh/ "Author Personal Website"). 
 
 ## Supervised learning
-### Classification
 1. [Linear Model from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear)
    - [Logistic Regresssion from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LogisticRegression) 
    - [Linear Discrimination Analysis (LDA) from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LDA) 
@@ -21,6 +20,10 @@ This repository contains my personal notes and codes for the book of [_Machine L
 6. [Ensemble Learning from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning)
    - [AdaBoost](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/AdaBoost)
    - [Bagging of Decision Stamps](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/Bagging)
+   
+## Unsupervised learning
+7. [Clustering from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering)
+   - [K-Means Algorithm](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Kmeans)
 
 
 ## Example Codes in Jupyter Notebook for Book Exercise
@@ -46,3 +49,6 @@ This repository contains my personal notes and codes for the book of [_Machine L
 ### [Chapter 8. Ensemble Learning](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning)
 - [Problem 8.3](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/AdaBoost/8.3.ipynb)- Implementation of **AdaBoost** 
 - [Problem 8.5](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/Bagging/8.5.ipynb) - Implementation of **Bagging** for Decision Stamps
+
+### [Chapter 9. Clustering](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/)
+- [Problem 9.4](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Kmeans) - Implementation of **K-Means** Algorithm
