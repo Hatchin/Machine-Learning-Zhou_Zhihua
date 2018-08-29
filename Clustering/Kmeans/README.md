@@ -1,13 +1,12 @@
-# Chapter 8 Problem 8.3 
-## Implementation of AdaBoost classifier
+# Chapter 9 Problem 9.4 
+## Implementation of K-Means
 
-This repository contains my personal notes and codes for problem 8.3 in Chapter 8. A Ensemble Classifier using AdaBoost algorithm for a two-class classification problem is implemented.
+This repository contains my personal notes and codes for problem 9.4 in Chapter 9. A K-Means algorithm for classification problem is implemented. The main steps are as follows:
 
-The algorithm sequentially applies a weak classification to modified versions of the data. By increasing the weights of the missclassified observations, each weak learner focuses on the error of the previous one. The predictions are aggregated through a weighted majority vote. 
-
-The main steps are as follows:
-<br />
-<img src="https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/EnsembleLearning/AdaBoost/adaboost_algo.png" width="600"> <br />
+1. Initilizing n centroids 
+2. Splitting the data into the cluster of its nearest centroids
+3. Updating the new centroids after 1 round clustering of all data
+4. Repeating step 2 and 3, until the clusters constant
 
 
 
