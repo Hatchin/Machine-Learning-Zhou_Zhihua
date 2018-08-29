@@ -3,7 +3,7 @@
 
 This repository contains my personal notes and codes for the book of [_Machine Learning_](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm "Book information") written by [Prof. Zhou Zhihua](http://cs.nju.edu.cn/zhouzh/ "Author Personal Website"). 
 
-## Supervised learning
+## Supervised Learning
 1. [Linear Model from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear)
    - [Logistic Regresssion from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LogisticRegression) 
    - [Linear Discrimination Analysis (LDA) from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Linear/LDA) 
@@ -21,7 +21,7 @@ This repository contains my personal notes and codes for the book of [_Machine L
    - [AdaBoost](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/AdaBoost)
    - [Bagging of Decision Stamps](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/Bagging)
    
-## Unsupervised learning
+## Unsupervised Learning
 7. [Clustering from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering)
    - [K-Means Algorithm](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Kmeans)
 
