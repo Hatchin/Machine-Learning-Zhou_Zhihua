@@ -53,4 +53,4 @@ This repository contains my personal notes and codes for the book of [_Machine L
 
 ### [Chapter 9. Clustering](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/)
 - [Problem 9.4](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Kmeans) - Implementation of **K-Means** Algorithm
--[Problem 9.10](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Automatic-Kmeans) - Implementation of **K-Mean with Automatically K Selection** 
+- [Problem 9.10](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Automatic-Kmeans) - Implementation of **K-Mean with Automatically K Selection** 
