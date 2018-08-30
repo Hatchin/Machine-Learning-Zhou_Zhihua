@@ -8,6 +8,8 @@ This repository contains my personal notes and codes for problem 9.10 in Chapter
 
 
 For instance, in the following graph, the turning point is k = 3:
+
+
 <br />
 <img src="https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/Clustering/Automatic-Kmeans/k-mean.png"> <br />
 
