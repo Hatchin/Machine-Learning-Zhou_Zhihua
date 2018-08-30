@@ -24,6 +24,7 @@ This repository contains my personal notes and codes for the book of [_Machine L
 ## Unsupervised Learning
 7. [Clustering from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering)
    - [K-Means Algorithm](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Kmeans)
+   - [Automatic K-Means Algorithm](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Automatic-Kmeans)
 
 
 ## Example Codes in Jupyter Notebook for Book Exercise
@@ -52,3 +53,4 @@ This repository contains my personal notes and codes for the book of [_Machine L
 
 ### [Chapter 9. Clustering](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/)
 - [Problem 9.4](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Kmeans) - Implementation of **K-Means** Algorithm
+-[Problem 9.10](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Automatic-Kmeans) - Implementation of **K-Mean with Automatically K Selection** 
