@@ -1,6 +1,6 @@
-# Chapter 9 Implementation of Clustering
+# Chapter 9 Implementation of Dimension Deduction
 
-This repository contains my personal notes and codes for problems in Chapter 9. Several Clustering algorithms were built.
+This repository contains my personal notes and codes for problems in Chapter 10. 
 
-- Problem 9.4: [K-Means](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Kmeans)
+- Problem 10.1: [KNN](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/DimensionDeduction/KNN/README.md)
 
