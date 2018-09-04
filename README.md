@@ -20,9 +20,11 @@ This repository contains my personal notes and codes for the book of [_Machine L
 6. [Ensemble Learning from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning)
    - [AdaBoost](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/AdaBoost)
    - [Bagging of Decision Stamps](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/Bagging)
+7. [Dimension Deduction from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DimensionDeduction)
+   - [K Nearest Neighbors](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DimensionDeduction/KNN)
    
 ## Unsupervised Learning
-7. [Clustering from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering)
+8. [Clustering from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering)
    - [K-Means Algorithm](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Kmeans)
    - [Automatic K-Means Algorithm](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Automatic-Kmeans)
 
@@ -54,3 +56,5 @@ This repository contains my personal notes and codes for the book of [_Machine L
 ### [Chapter 9. Clustering](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/)
 - [Problem 9.4](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Kmeans) - Implementation of **K-Means** Algorithm
 - [Problem 9.10](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Automatic-Kmeans) - Implementation of **K-Mean with Automatically K Selection** 
+### [Chapter 10. Dimension Deduction](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DimensionDeduction)
+- [Problem 10.1](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DimensionDeduction/KNN) - Implementation of **K Nearest Neighbors** Algorithm (KNN)
