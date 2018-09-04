@@ -21,7 +21,7 @@ This repository contains my personal notes and codes for the book of [_Machine L
    - [AdaBoost](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/AdaBoost)
    - [Bagging of Decision Stamps](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/Bagging)
 7. [Dimension Deduction from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DimensionDeduction)
-   - [K Nearest Neighbors](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DimensionDeduction/KNN)
+   - [K Nearest Neighbors (KNN)](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DimensionDeduction/KNN)
    
 ## Unsupervised Learning
 8. [Clustering from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering)
