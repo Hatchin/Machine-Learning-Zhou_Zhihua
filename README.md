@@ -22,9 +22,11 @@ This repository contains my personal notes and codes for the book of [_Machine L
    - [Bagging of Decision Stamps](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/EnsembleLearning/Bagging)
 7. [Dimension Deduction from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DimensionDeduction)
    - [K Nearest Neighbors (KNN)](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DimensionDeduction/KNN)
+8. [Feature Selection from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/FeatureSelection)
+   - [Relief Algorithm](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/FeatureSelection/Relief)
    
 ## Unsupervised Learning
-8. [Clustering from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering)
+9. [Clustering from Stratch](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering)
    - [K-Means Algorithm](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Kmeans)
    - [Automatic K-Means Algorithm](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Automatic-Kmeans)
 
@@ -58,3 +60,6 @@ This repository contains my personal notes and codes for the book of [_Machine L
 - [Problem 9.10](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/Clustering/Automatic-Kmeans) - Implementation of **K-Mean with Automatically K Selection** 
 ### [Chapter 10. Dimension Deduction](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DimensionDeduction)
 - [Problem 10.1](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/DimensionDeduction/KNN) - Implementation of **K Nearest Neighbors** Algorithm (KNN)
+
+### [Chapter 11. Feature Selection](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/FeatureSelection)
+- [Problem 11.1](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/FeatureSelection/Relief) - Implementation of **Relief** Algorithm for Feature Selection in Binary Classification Problem
