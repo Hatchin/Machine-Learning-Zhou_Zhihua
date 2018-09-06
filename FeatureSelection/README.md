@@ -1,6 +1,6 @@
-# Chapter 9 Implementation of Dimension Deduction
+# Chapter 10 Implementation of Feature Selection
 
-This repository contains my personal notes and codes for problems in Chapter 10. 
+This repository contains my personal notes and codes for problems in Chapter 11. 
 
-- Problem 10.1: [KNN](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/blob/master/DimensionDeduction/KNN/README.md)
+- Problem 11.1: [Relief](https://github.com/Hatchin/Machine-Learning-Zhou_Zhihua/tree/master/FeatureSelection/Relief)
 
